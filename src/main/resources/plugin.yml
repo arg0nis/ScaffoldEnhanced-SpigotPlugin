@@ -1,0 +1,9 @@
+name: Scaffold-Better
+version: '${project.version}'
+main: me.saimon527.scaffoldenhanced.ScaffoldEnhanced
+api-version: '1.20'
+authors: [Saimon527]
+description: Enhanced Scaffold plugin created for educational purposes.
+commands:
+  scaffold:
+    description: Enables or disables scaffold.
